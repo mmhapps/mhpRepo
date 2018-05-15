@@ -1,4 +1,8 @@
 {
+  "ver": "1.0.1",
+  "plugins": [
+    
+{
     "author": "Vika",
     "version_code": 2,
     "package_name": "com.zbs.msc.zaycev",
