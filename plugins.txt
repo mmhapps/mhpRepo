@@ -4,7 +4,7 @@
     
 {
     "author": "Vika",
-    "version_code": 2,
+    "version_code": 3,
     "package_name": "com.zbs.msc.zaycev",
     "title": "Zaycev source provider",
     "market_package": "",
@@ -15,7 +15,7 @@
 
 {
     "author": "Vika",
-    "version_code": 3,
+    "version_code": 4,
     "package_name": "com.msc.myzukafm",
     "title": "Myzuka.club source provider",
     "market_package": "",
